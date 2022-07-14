@@ -1,0 +1,9 @@
+C:\Users\Dickson\source\repos\ApiExaustor\FIWARE.OrionClient\bin\Release\FIWARE.OrionClient.dll
+C:\Users\Dickson\source\repos\ApiExaustor\FIWARE.OrionClient\bin\Release\FIWARE.OrionClient.pdb
+C:\Users\Dickson\source\repos\ApiExaustor\FIWARE.OrionClient\bin\Release\Newtonsoft.Json.dll
+C:\Users\Dickson\source\repos\ApiExaustor\FIWARE.OrionClient\bin\Release\Newtonsoft.Json.xml
+C:\Users\Dickson\source\repos\ApiExaustor\FIWARE.OrionClient\obj\Release\FIWARE.OrionClient.csprojAssemblyReference.cache
+C:\Users\Dickson\source\repos\ApiExaustor\FIWARE.OrionClient\obj\Release\FIWARE.OrionClient.csproj.CoreCompileInputs.cache
+C:\Users\Dickson\source\repos\ApiExaustor\FIWARE.OrionClient\obj\Release\FIWARE.OrionClient.csproj.CopyComplete
+C:\Users\Dickson\source\repos\ApiExaustor\FIWARE.OrionClient\obj\Release\FIWARE.OrionClient.dll
+C:\Users\Dickson\source\repos\ApiExaustor\FIWARE.OrionClient\obj\Release\FIWARE.OrionClient.pdb
